@@ -1,19 +1,7 @@
 # Shivsangram-_Nilate_T120200302-_TNSIF_Project_1
 
-# Ignore Python cache and virtual environments
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-venv/
-.env/
-.vscode/
+# Heart Disease Regression App
 
-# Ignore system files
-.DS_Store
-Thumbs.db
+❤️ Heart Disease Regression App
+Predicts heart disease likelihood using Multiple Linear Regression (SGDRegressor).
 
-# Ignore large model/data files (optional)
-models/*.pkl
-data/*.csv
-assets/*.png
