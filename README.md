@@ -1,2 +1,19 @@
 # Shivsangram-_Nilate_T120200302-_TNSIF_Project_1
-TNSIF Project_1
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore large model/data files (optional)
+models/*.pkl
+data/*.csv
+assets/*.png
